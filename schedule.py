@@ -10,7 +10,7 @@ import os
 st.set_page_config(page_title="AI Scheduler Capstone", page_icon="📅", layout="wide")
 
 # 👇👇 I HAVE PUT YOUR KEY HERE FOR YOU 👇👇
-API_KEY = "AIzaSyCZHnuErU"
+API_KEY = "api"
 # 👆👆 DO NOT CHANGE THIS LINE 👆👆
 
 try:
